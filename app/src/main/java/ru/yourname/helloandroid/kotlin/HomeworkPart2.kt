@@ -17,8 +17,8 @@ fun main() {
 //    println("Min power of $list2 is ${findMinCharge(list2)}")
 //    println("Min power of $list3 is ${findMinCharge(list3)}")
 //    println(sumValid(listVal))
-    println("Multiply: ${adjustSignals(orig)}")
-    println("Square: ${adjustSignals(orig, {it*it})}")
+//    println("Multiply: ${adjustSignals(orig)}")
+//    println("Square: ${adjustSignals(orig, {it*it})}")
 }
 
 
