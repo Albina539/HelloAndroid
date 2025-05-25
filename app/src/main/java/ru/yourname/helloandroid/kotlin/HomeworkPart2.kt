@@ -1,5 +1,4 @@
 package ru.yourname.helloandroid.kotlin
-
 import androidx.constraintlayout.widget.ConstraintSet.Transform
 import java.lang.IllegalArgumentException
 import kotlin.math.abs
