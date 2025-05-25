@@ -20,7 +20,6 @@ fun main() {
 //    println("Square: ${adjustSignals(orig, {it*it})}")
 }
 
-
 /**
  * Напишите функцию welcomeBot(id: String), которая выводит строку
  * Beep! Unit <id> online
